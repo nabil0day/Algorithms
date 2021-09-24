@@ -1,7 +1,4 @@
-/*                       Author : Hadiur Rahman Nabil
-                         ID     : 20-42095-1
-                         Course : Algorithms [L]
-*/
+//Binary Search
                   
 
 #include <bits/stdc++.h>
